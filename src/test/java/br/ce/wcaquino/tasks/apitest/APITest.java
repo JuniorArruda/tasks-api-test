@@ -64,7 +64,7 @@ public class APITest {
 		.extract().path("id")
 		;
 		
-		System.out.println(id);
+		//System.out.println(id);
 	
 		// remover
 		
